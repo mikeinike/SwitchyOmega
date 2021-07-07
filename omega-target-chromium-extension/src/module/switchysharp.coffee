@@ -4,7 +4,7 @@ Promise = OmegaTarget.Promise
 ChromePort = require('./chrome_port')
 
 module.exports = class SwitchySharp
-  @extId: 'dpplabbmogkhghncfbfdeeokoefdjegm'
+  @extId: 'padekgcemlokbadohgkifijomclgjgif'
   port: null
 
   monitor: (action) ->
